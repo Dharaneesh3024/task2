@@ -1,0 +1,25 @@
+
+.options{
+    color:white;
+    text-decoration:none;
+    margin-left:45px;
+    padding:10px;
+    gap:1em;
+    border-style:solid;
+    border-radius:1em}
+
+.active-link{
+    color:black;
+    background-color:white;
+
+    text-decoration:none;
+    margin-left:45px;
+    padding:10px;
+    border-style:solid;
+    /* border-color: gold; */
+    border-radius:1em 
+}
+.nav{
+    background-color: black;
+    padding: 20px;
+}
